@@ -1,0 +1,92 @@
+export const featuredProperties = [
+  {
+    id: '1',
+    image: 'https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    title: 'Villa de Lujo con Vista al Mar',
+    location: 'Sosúa, Puerto Plata',
+    price: 750000,
+    beds: 4,
+    baths: 4,
+    area: 350,
+    link: '/properties/1',
+  },
+  {
+    id: '2',
+    image: 'https://images.pexels.com/photos/259751/pexels-photo-259751.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    title: 'Apartamento Moderno en el Centro',
+    location: 'Puerto Plata Ciudad',
+    price: 180000,
+    beds: 2,
+    baths: 2,
+    area: 120,
+    link: '/properties/2',
+  },
+  {
+    id: '3',
+    image: 'https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    title: 'Casa Familiar con Jardín Amplio',
+    location: 'Cabarete, Puerto Plata',
+    price: 320000,
+    beds: 3,
+    baths: 3,
+    area: 200,
+    link: '/properties/3',
+  },
+  {
+    id: '4',
+    image: 'https://images.pexels.com/photos/208736/pexels-photo-208736.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    title: 'Terreno con Potencial de Desarrollo',
+    location: 'Costambar, Puerto Plata',
+    price: 95000,
+    beds: 0,
+    baths: 0,
+    area: 1000,
+    link: '/properties/4',
+  },
+  {
+    id: '5',
+    image: 'https://images.pexels.com/photos/164558/pexels-photo-164558.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    title: 'Penthouse con Vistas Panorámicas',
+    location: 'Playa Dorada, Puerto Plata',
+    price: 480000,
+    beds: 3,
+    baths: 3,
+    area: 250,
+    link: '/properties/5',
+  },
+  {
+    id: '6',
+    image: 'https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    title: 'Casa de Playa con Acceso Directo',
+    location: 'Maimón, Puerto Plata',
+    price: 620000,
+    beds: 4,
+    baths: 3,
+    area: 300,
+    link: '/properties/6',
+  },
+];
+
+export const testimonials = [
+  {
+    id: 't1',
+    quote: "Bereal Realtors hizo que encontrar nuestra villa de ensueño en Sosúa fuera un proceso increíblemente fácil y agradable. ¡Su conocimiento local es inigualable!",
+    author: "María & Juan P.",
+    location: "Santo Domingo, RD",
+    avatar: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    id: 't2',
+    quote: "Vendimos nuestra propiedad en Puerto Plata más rápido de lo que esperábamos, y a un excelente precio. El equipo de Bereal es profesional y muy eficiente.",
+    author: "Carlos R.",
+    location: "Santiago, RD",
+    avatar: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    id: 't3',
+    quote: "Como inversionista, aprecio la transparencia y el asesoramiento experto que Bereal Realtors me brindó. Encontré el terreno perfecto para mi próximo proyecto.",
+    author: "Sofía G.",
+    location: "Nueva York, EE. UU.",
+    avatar: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+];
